@@ -1,0 +1,25 @@
+input{
+    width: 50%;
+    margin:2%;
+    margin: none;
+    margin-left: 10px;
+     border-radius: 10px;
+}
+form{
+    width: 50%;
+    /* border: 1px solid blue; */
+    padding :3px;
+    background-color:bisque;
+    border: radius 10px; ;
+    margin-left: 3px;
+    border-radius: 20px;
+
+}
+button{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 15px;
+    background-color: rgb(42, 165, 69);
+    border-radius: 5px;
+
+}
+
